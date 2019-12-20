@@ -24,8 +24,9 @@ class Triangle
   # end
   
    end
-end 
+ 
 
 class TriangleError < StandardError
   "This is not a proper triangle."
+end
 end
